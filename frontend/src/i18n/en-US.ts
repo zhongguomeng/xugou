@@ -73,7 +73,7 @@ const enUS = {
     "language.enUS": "English",
 
     // Home page
-    "home.title": "Welcome to XUGOU",
+    "home.title": "Welcome",
     "home.subtitle": "A simple and easy-to-use monitoring platform",
     "home.getStarted": "Get Started",
     "home.learnMore": "Learn More",
