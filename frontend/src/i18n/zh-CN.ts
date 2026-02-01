@@ -73,7 +73,7 @@ const zhCN = {
     "language.enUS": "English",
 
     // 首页
-    "home.title": "欢迎使用 XUGOU",
+    "home.title": "欢迎使用",
     "home.subtitle": "简单易用的监控平台",
     "home.getStarted": "开始使用",
     "home.learnMore": "了解更多",
