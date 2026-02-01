@@ -1,7 +1,7 @@
 {
-  "name": "xugou",
+  "name": "Fanta's JK",
   "version": "1.0.0",
-  "description": "Xugou monitoring system",
+  "description": "Fanta monitoring system",
   "private": true,
   "scripts": {
     "dev:frontend": "cd frontend && pnpm run dev",
